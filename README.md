@@ -5,3 +5,6 @@
 + if문
 + for문 : 반복문 => range()
 + while문
+# 05.14 금 파이썬 (컬렉션 자료형)
++ count , split, len, join, upper, replace, index
++ list
